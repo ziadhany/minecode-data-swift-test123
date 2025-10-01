@@ -1,0 +1,6 @@
+- pkg:swift/github.com/mbernson/SwiftGit2@0.4.0
+- pkg:swift/github.com/mbernson/SwiftGit2@0.5.0
+- pkg:swift/github.com/mbernson/SwiftGit2@0.6.0
+- pkg:swift/github.com/mbernson/SwiftGit2@v0.1
+- pkg:swift/github.com/mbernson/SwiftGit2@v0.2
+- pkg:swift/github.com/mbernson/SwiftGit2@v0.3
