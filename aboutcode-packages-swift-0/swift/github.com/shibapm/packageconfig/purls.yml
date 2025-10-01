@@ -1,0 +1,15 @@
+- pkg:swift/github.com/shibapm/packageconfig@0.0.1
+- pkg:swift/github.com/shibapm/packageconfig@0.10.0
+- pkg:swift/github.com/shibapm/packageconfig@0.11.0
+- pkg:swift/github.com/shibapm/packageconfig@0.12.0
+- pkg:swift/github.com/shibapm/packageconfig@0.12.1
+- pkg:swift/github.com/shibapm/packageconfig@0.12.2
+- pkg:swift/github.com/shibapm/packageconfig@0.13.0
+- pkg:swift/github.com/shibapm/packageconfig@0.9.0
+- pkg:swift/github.com/shibapm/packageconfig@1.0.0
+- pkg:swift/github.com/shibapm/packageconfig@1.0.1
+- pkg:swift/github.com/shibapm/packageconfig@1.0.2
+- pkg:swift/github.com/shibapm/packageconfig@1.1.0
+- pkg:swift/github.com/shibapm/packageconfig@1.1.1
+- pkg:swift/github.com/shibapm/packageconfig@1.1.2
+- pkg:swift/github.com/shibapm/packageconfig@1.1.3
