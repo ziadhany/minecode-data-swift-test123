@@ -1,0 +1,13 @@
+- pkg:swift/github.com/SimplyDanny/SwiftLintPlugins@0.55.1
+- pkg:swift/github.com/SimplyDanny/SwiftLintPlugins@0.56.0
+- pkg:swift/github.com/SimplyDanny/SwiftLintPlugins@0.56.1
+- pkg:swift/github.com/SimplyDanny/SwiftLintPlugins@0.56.2
+- pkg:swift/github.com/SimplyDanny/SwiftLintPlugins@0.57.0
+- pkg:swift/github.com/SimplyDanny/SwiftLintPlugins@0.57.1
+- pkg:swift/github.com/SimplyDanny/SwiftLintPlugins@0.58.0
+- pkg:swift/github.com/SimplyDanny/SwiftLintPlugins@0.58.1
+- pkg:swift/github.com/SimplyDanny/SwiftLintPlugins@0.58.2
+- pkg:swift/github.com/SimplyDanny/SwiftLintPlugins@0.59.0
+- pkg:swift/github.com/SimplyDanny/SwiftLintPlugins@0.59.1
+- pkg:swift/github.com/SimplyDanny/SwiftLintPlugins@0.60.0
+- pkg:swift/github.com/SimplyDanny/SwiftLintPlugins@0.61.0
