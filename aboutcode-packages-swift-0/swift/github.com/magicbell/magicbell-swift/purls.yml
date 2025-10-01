@@ -1,0 +1,11 @@
+- pkg:swift/github.com/magicbell/magicbell-swift@1.0.0
+- pkg:swift/github.com/magicbell/magicbell-swift@1.0.0-alpha.1
+- pkg:swift/github.com/magicbell/magicbell-swift@1.0.0-alpha.1%5E%7B%7D
+- pkg:swift/github.com/magicbell/magicbell-swift@1.0.0-alpha.2
+- pkg:swift/github.com/magicbell/magicbell-swift@1.0.0-alpha.2%5E%7B%7D
+- pkg:swift/github.com/magicbell/magicbell-swift@1.0.0-alpha.3
+- pkg:swift/github.com/magicbell/magicbell-swift@1.0.0-alpha.3%5E%7B%7D
+- pkg:swift/github.com/magicbell/magicbell-swift@2.0.0
+- pkg:swift/github.com/magicbell/magicbell-swift@2.0.0%5E%7B%7D
+- pkg:swift/github.com/magicbell/magicbell-swift@v3.0.0
+- pkg:swift/github.com/magicbell/magicbell-swift@v3.0.0%5E%7B%7D

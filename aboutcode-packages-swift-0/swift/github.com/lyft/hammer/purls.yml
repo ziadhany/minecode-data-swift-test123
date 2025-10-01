@@ -1,0 +1,17 @@
+- pkg:swift/github.com/lyft/hammer@0.10.0
+- pkg:swift/github.com/lyft/hammer@0.10.1
+- pkg:swift/github.com/lyft/hammer@0.10.2
+- pkg:swift/github.com/lyft/hammer@0.11.0
+- pkg:swift/github.com/lyft/hammer@0.12.0
+- pkg:swift/github.com/lyft/hammer@0.13.0
+- pkg:swift/github.com/lyft/hammer@0.13.1
+- pkg:swift/github.com/lyft/hammer@0.13.2
+- pkg:swift/github.com/lyft/hammer@0.13.3
+- pkg:swift/github.com/lyft/hammer@0.14.0
+- pkg:swift/github.com/lyft/hammer@0.14.1
+- pkg:swift/github.com/lyft/hammer@0.14.2
+- pkg:swift/github.com/lyft/hammer@0.14.3
+- pkg:swift/github.com/lyft/hammer@0.15.0
+- pkg:swift/github.com/lyft/hammer@0.16.0
+- pkg:swift/github.com/lyft/hammer@0.17.0
+- pkg:swift/github.com/lyft/hammer@0.9.0
