@@ -1,0 +1,4 @@
+- pkg:swift/github.com/open-telemetry/opentelemetry-swift-core@1.0.0
+- pkg:swift/github.com/open-telemetry/opentelemetry-swift-core@2.1.0
+- pkg:swift/github.com/open-telemetry/opentelemetry-swift-core@2.1.1
+- pkg:swift/github.com/open-telemetry/opentelemetry-swift-core@2.2.0

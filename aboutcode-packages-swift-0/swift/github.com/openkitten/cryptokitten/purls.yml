@@ -1,0 +1,13 @@
+- pkg:swift/github.com/openkitten/cryptokitten@0.0.0
+- pkg:swift/github.com/openkitten/cryptokitten@0.0.1
+- pkg:swift/github.com/openkitten/cryptokitten@0.0.2
+- pkg:swift/github.com/openkitten/cryptokitten@0.1.0
+- pkg:swift/github.com/openkitten/cryptokitten@0.1.0%5E%7B%7D
+- pkg:swift/github.com/openkitten/cryptokitten@0.2.0
+- pkg:swift/github.com/openkitten/cryptokitten@0.2.1
+- pkg:swift/github.com/openkitten/cryptokitten@0.2.2
+- pkg:swift/github.com/openkitten/cryptokitten@0.2.2%5E%7B%7D
+- pkg:swift/github.com/openkitten/cryptokitten@0.2.3
+- pkg:swift/github.com/openkitten/cryptokitten@0.2.3%5E%7B%7D
+- pkg:swift/github.com/openkitten/cryptokitten@0.2.4-swift5
+- pkg:swift/github.com/openkitten/cryptokitten@0.2.4-swift5%5E%7B%7D

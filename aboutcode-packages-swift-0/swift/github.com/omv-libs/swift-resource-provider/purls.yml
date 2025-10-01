@@ -1,0 +1,7 @@
+- pkg:swift/github.com/omv-libs/swift-resource-provider@0.0.1-alpha
+- pkg:swift/github.com/omv-libs/swift-resource-provider@0.0.1-alpha%5E%7B%7D
+- pkg:swift/github.com/omv-libs/swift-resource-provider@0.1.0
+- pkg:swift/github.com/omv-libs/swift-resource-provider@0.1.0%5E%7B%7D
+- pkg:swift/github.com/omv-libs/swift-resource-provider@0.2.0
+- pkg:swift/github.com/omv-libs/swift-resource-provider@0.3.0
+- pkg:swift/github.com/omv-libs/swift-resource-provider@0.4.0
