@@ -1,0 +1,13 @@
+- pkg:swift/github.com/pureswift/silica@1.0.0
+- pkg:swift/github.com/pureswift/silica@1.0.1
+- pkg:swift/github.com/pureswift/silica@1.1.0
+- pkg:swift/github.com/pureswift/silica@1.1.1
+- pkg:swift/github.com/pureswift/silica@1.1.2
+- pkg:swift/github.com/pureswift/silica@1.2.0
+- pkg:swift/github.com/pureswift/silica@1.3.0
+- pkg:swift/github.com/pureswift/silica@1.3.1
+- pkg:swift/github.com/pureswift/silica@1.3.1%40swift-3
+- pkg:swift/github.com/pureswift/silica@1.3.2
+- pkg:swift/github.com/pureswift/silica@1.3.2%40swift-4.0.2
+- pkg:swift/github.com/pureswift/silica@2.0.0
+- pkg:swift/github.com/pureswift/silica@2.0.1
