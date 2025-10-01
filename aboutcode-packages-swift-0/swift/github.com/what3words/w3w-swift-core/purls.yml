@@ -1,0 +1,15 @@
+- pkg:swift/github.com/what3words/w3w-swift-core@App-4.32
+- pkg:swift/github.com/what3words/w3w-swift-core@App-4.32%5E%7B%7D
+- pkg:swift/github.com/what3words/w3w-swift-core@v0.1.0
+- pkg:swift/github.com/what3words/w3w-swift-core@v0.1.0%5E%7B%7D
+- pkg:swift/github.com/what3words/w3w-swift-core@v1.0.0
+- pkg:swift/github.com/what3words/w3w-swift-core@v1.0.0%5E%7B%7D
+- pkg:swift/github.com/what3words/w3w-swift-core@v1.0.1
+- pkg:swift/github.com/what3words/w3w-swift-core@v1.0.1%5E%7B%7D
+- pkg:swift/github.com/what3words/w3w-swift-core@v1.1.0
+- pkg:swift/github.com/what3words/w3w-swift-core@v1.1.0%5E%7B%7D
+- pkg:swift/github.com/what3words/w3w-swift-core@v1.1.1
+- pkg:swift/github.com/what3words/w3w-swift-core@v1.1.2
+- pkg:swift/github.com/what3words/w3w-swift-core@v1.1.3
+- pkg:swift/github.com/what3words/w3w-swift-core@v1.1.3%5E%7B%7D
+- pkg:swift/github.com/what3words/w3w-swift-core@v1.1.4

@@ -1,0 +1,4 @@
+- pkg:swift/github.com/WeTransferArchive/WeTransfer-Swift-SDK@v0.9
+- pkg:swift/github.com/WeTransferArchive/WeTransfer-Swift-SDK@v1.0
+- pkg:swift/github.com/WeTransferArchive/WeTransfer-Swift-SDK@v1.0.1
+- pkg:swift/github.com/WeTransferArchive/WeTransfer-Swift-SDK@v2.0
