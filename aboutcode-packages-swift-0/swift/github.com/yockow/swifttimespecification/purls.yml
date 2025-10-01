@@ -1,0 +1,11 @@
+- pkg:swift/github.com/yockow/swifttimespecification@1.0.0
+- pkg:swift/github.com/yockow/swifttimespecification@1.0.0%5E%7B%7D
+- pkg:swift/github.com/yockow/swifttimespecification@2.0.0
+- pkg:swift/github.com/yockow/swifttimespecification@2.0.0%5E%7B%7D
+- pkg:swift/github.com/yockow/swifttimespecification@2.0.0-swift-4.0
+- pkg:swift/github.com/yockow/swifttimespecification@2.0.0-swift-4.0%5E%7B%7D
+- pkg:swift/github.com/yockow/swifttimespecification@3.0.0
+- pkg:swift/github.com/yockow/swifttimespecification@3.1.0
+- pkg:swift/github.com/yockow/swifttimespecification@3.2.0
+- pkg:swift/github.com/yockow/swifttimespecification@3.3.0
+- pkg:swift/github.com/yockow/swifttimespecification@3.4.0

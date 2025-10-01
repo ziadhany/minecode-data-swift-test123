@@ -1,0 +1,6 @@
+- pkg:swift/github.com/Yubico/yubikit-swift@v0.1
+- pkg:swift/github.com/Yubico/yubikit-swift@v0.2
+- pkg:swift/github.com/Yubico/yubikit-swift@v0.3
+- pkg:swift/github.com/Yubico/yubikit-swift@v0.4
+- pkg:swift/github.com/Yubico/yubikit-swift@v0.4.1
+- pkg:swift/github.com/Yubico/yubikit-swift@v1.0.0
