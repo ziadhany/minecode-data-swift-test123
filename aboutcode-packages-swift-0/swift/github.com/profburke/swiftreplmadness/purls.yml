@@ -1,0 +1,5 @@
+- pkg:swift/github.com/profburke/swiftreplmadness@2.0.1
+- pkg:swift/github.com/profburke/swiftreplmadness@swift3
+- pkg:swift/github.com/profburke/swiftreplmadness@swift3%5E%7B%7D
+- pkg:swift/github.com/profburke/swiftreplmadness@swift4
+- pkg:swift/github.com/profburke/swiftreplmadness@swift4%5E%7B%7D
