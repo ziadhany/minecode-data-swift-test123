@@ -1,0 +1,17 @@
+- pkg:swift/github.com/vapor-community/lingo-vapor@1.0.0
+- pkg:swift/github.com/vapor-community/lingo-vapor@1.0.0%5E%7B%7D
+- pkg:swift/github.com/vapor-community/lingo-vapor@1.0.1
+- pkg:swift/github.com/vapor-community/lingo-vapor@1.0.1%5E%7B%7D
+- pkg:swift/github.com/vapor-community/lingo-vapor@3.0.0
+- pkg:swift/github.com/vapor-community/lingo-vapor@3.0.0%5E%7B%7D
+- pkg:swift/github.com/vapor-community/lingo-vapor@3.0.1
+- pkg:swift/github.com/vapor-community/lingo-vapor@4.0.0
+- pkg:swift/github.com/vapor-community/lingo-vapor@4.1.0
+- pkg:swift/github.com/vapor-community/lingo-vapor@4.1.0%5E%7B%7D
+- pkg:swift/github.com/vapor-community/lingo-vapor@4.2.0
+- pkg:swift/github.com/vapor-community/lingo-vapor@4.2.0%5E%7B%7D
+- pkg:swift/github.com/vapor-community/lingo-vapor@4.3.0
+- pkg:swift/github.com/vapor-community/lingo-vapor@4.3.0%5E%7B%7D
+- pkg:swift/github.com/vapor-community/lingo-vapor@4.3.1
+- pkg:swift/github.com/vapor-community/lingo-vapor@4.3.1%5E%7B%7D
+- pkg:swift/github.com/vapor-community/lingo-vapor@4.4.0

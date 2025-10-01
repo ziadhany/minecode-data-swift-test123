@@ -1,0 +1,9 @@
+- pkg:swift/github.com/vapor-community/async@1.0.0-alpha.1
+- pkg:swift/github.com/vapor-community/async@1.0.0-alpha.2
+- pkg:swift/github.com/vapor-community/async@1.0.0-alpha.3
+- pkg:swift/github.com/vapor-community/async@1.0.0-alpha.4
+- pkg:swift/github.com/vapor-community/async@1.0.0-alpha.5
+- pkg:swift/github.com/vapor-community/async@1.0.0-beta.1
+- pkg:swift/github.com/vapor-community/async@1.0.0-beta.1.1
+- pkg:swift/github.com/vapor-community/async@1.0.0-rc.1
+- pkg:swift/github.com/vapor-community/async@1.0.0-rc.1.1
