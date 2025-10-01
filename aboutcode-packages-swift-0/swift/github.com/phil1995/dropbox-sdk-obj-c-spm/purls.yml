@@ -1,0 +1,5 @@
+- pkg:swift/github.com/phil1995/dropbox-sdk-obj-c-spm@6.3.2
+- pkg:swift/github.com/phil1995/dropbox-sdk-obj-c-spm@6.3.2-automated-release-test
+- pkg:swift/github.com/phil1995/dropbox-sdk-obj-c-spm@7.0.0
+- pkg:swift/github.com/phil1995/dropbox-sdk-obj-c-spm@7.1.0
+- pkg:swift/github.com/phil1995/dropbox-sdk-obj-c-spm@7.2.0

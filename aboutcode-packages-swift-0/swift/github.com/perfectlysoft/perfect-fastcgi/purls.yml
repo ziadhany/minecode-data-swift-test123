@@ -1,0 +1,14 @@
+- pkg:swift/github.com/perfectlysoft/perfect-fastcgi@0.1.0
+- pkg:swift/github.com/perfectlysoft/perfect-fastcgi@0.2.0
+- pkg:swift/github.com/perfectlysoft/perfect-fastcgi@0.3.0
+- pkg:swift/github.com/perfectlysoft/perfect-fastcgi@0.4.0
+- pkg:swift/github.com/perfectlysoft/perfect-fastcgi@0.5.0
+- pkg:swift/github.com/perfectlysoft/perfect-fastcgi@0.6.0
+- pkg:swift/github.com/perfectlysoft/perfect-fastcgi@0.7.0
+- pkg:swift/github.com/perfectlysoft/perfect-fastcgi@0.8.0
+- pkg:swift/github.com/perfectlysoft/perfect-fastcgi@0.9.0
+- pkg:swift/github.com/perfectlysoft/perfect-fastcgi@2.0.0
+- pkg:swift/github.com/perfectlysoft/perfect-fastcgi@2.0.1
+- pkg:swift/github.com/perfectlysoft/perfect-fastcgi@2.0.2
+- pkg:swift/github.com/perfectlysoft/perfect-fastcgi@2.0.3
+- pkg:swift/github.com/perfectlysoft/perfect-fastcgi@3.0.0

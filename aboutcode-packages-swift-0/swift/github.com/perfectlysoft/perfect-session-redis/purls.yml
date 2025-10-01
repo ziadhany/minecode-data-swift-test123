@@ -1,0 +1,15 @@
+- pkg:swift/github.com/perfectlysoft/perfect-session-redis@0.0.1
+- pkg:swift/github.com/perfectlysoft/perfect-session-redis@0.0.1%5E%7B%7D
+- pkg:swift/github.com/perfectlysoft/perfect-session-redis@1.0.12
+- pkg:swift/github.com/perfectlysoft/perfect-session-redis@1.0.12%5E%7B%7D
+- pkg:swift/github.com/perfectlysoft/perfect-session-redis@1.0.13
+- pkg:swift/github.com/perfectlysoft/perfect-session-redis@1.0.13%5E%7B%7D
+- pkg:swift/github.com/perfectlysoft/perfect-session-redis@1.1.1
+- pkg:swift/github.com/perfectlysoft/perfect-session-redis@1.1.1%5E%7B%7D
+- pkg:swift/github.com/perfectlysoft/perfect-session-redis@1.1.2
+- pkg:swift/github.com/perfectlysoft/perfect-session-redis@1.1.2%5E%7B%7D
+- pkg:swift/github.com/perfectlysoft/perfect-session-redis@3.0.0
+- pkg:swift/github.com/perfectlysoft/perfect-session-redis@3.0.0%5E%7B%7D
+- pkg:swift/github.com/perfectlysoft/perfect-session-redis@3.0.1
+- pkg:swift/github.com/perfectlysoft/perfect-session-redis@3.0.2
+- pkg:swift/github.com/perfectlysoft/perfect-session-redis@3.1.0
