@@ -1,0 +1,4 @@
+- pkg:swift/github.com/hylo-lang/Lotsawa@spm-dup-identity-bug
+- pkg:swift/github.com/hylo-lang/Lotsawa@swift-bug-bad-diagnostic
+- pkg:swift/github.com/hylo-lang/Lotsawa@v0.9.0
+- pkg:swift/github.com/hylo-lang/Lotsawa@v0.9.1
