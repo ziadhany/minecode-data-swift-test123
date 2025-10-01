@@ -1,0 +1,9 @@
+- pkg:swift/github.com/typesense/typesense-swift@v0.1.0
+- pkg:swift/github.com/typesense/typesense-swift@v0.1.1
+- pkg:swift/github.com/typesense/typesense-swift@v0.1.2
+- pkg:swift/github.com/typesense/typesense-swift@v0.2.0
+- pkg:swift/github.com/typesense/typesense-swift@v1.0.0
+- pkg:swift/github.com/typesense/typesense-swift@v1.0.0-rc.1
+- pkg:swift/github.com/typesense/typesense-swift@v1.0.1
+- pkg:swift/github.com/typesense/typesense-swift@v1.0.1-rc.1
+- pkg:swift/github.com/typesense/typesense-swift@v1.1.0-rc.1
