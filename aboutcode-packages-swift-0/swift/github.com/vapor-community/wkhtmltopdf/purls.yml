@@ -1,0 +1,8 @@
+- pkg:swift/github.com/vapor-community/wkhtmltopdf@0.1.0
+- pkg:swift/github.com/vapor-community/wkhtmltopdf@1.0.0
+- pkg:swift/github.com/vapor-community/wkhtmltopdf@1.1.0
+- pkg:swift/github.com/vapor-community/wkhtmltopdf@2.0.0
+- pkg:swift/github.com/vapor-community/wkhtmltopdf@2.0.1
+- pkg:swift/github.com/vapor-community/wkhtmltopdf@3.0.0
+- pkg:swift/github.com/vapor-community/wkhtmltopdf@3.0.1
+- pkg:swift/github.com/vapor-community/wkhtmltopdf@4.0.0

@@ -1,0 +1,17 @@
+- pkg:swift/github.com/vapor-community/pagination@1.0.0
+- pkg:swift/github.com/vapor-community/pagination@1.0.0-rc.1
+- pkg:swift/github.com/vapor-community/pagination@1.0.0-rc.2
+- pkg:swift/github.com/vapor-community/pagination@1.0.0-rc.3
+- pkg:swift/github.com/vapor-community/pagination@1.0.0-rc.4
+- pkg:swift/github.com/vapor-community/pagination@1.0.0-rc.5
+- pkg:swift/github.com/vapor-community/pagination@1.0.1
+- pkg:swift/github.com/vapor-community/pagination@1.0.2
+- pkg:swift/github.com/vapor-community/pagination@1.0.3
+- pkg:swift/github.com/vapor-community/pagination@1.0.4
+- pkg:swift/github.com/vapor-community/pagination@1.0.5
+- pkg:swift/github.com/vapor-community/pagination@1.0.6
+- pkg:swift/github.com/vapor-community/pagination@1.0.6%5E%7B%7D
+- pkg:swift/github.com/vapor-community/pagination@1.0.7
+- pkg:swift/github.com/vapor-community/pagination@1.0.8
+- pkg:swift/github.com/vapor-community/pagination@1.0.9
+- pkg:swift/github.com/vapor-community/pagination@2.0.0-alpha.1

@@ -1,0 +1,3 @@
+- pkg:swift/github.com/vapor-community/queues-database-hooks@0.1.0
+- pkg:swift/github.com/vapor-community/queues-database-hooks@0.2.0
+- pkg:swift/github.com/vapor-community/queues-database-hooks@0.3.0
