@@ -1,0 +1,6 @@
+- pkg:swift/github.com/Kosikowski/swift-mpg123@1.0.0
+- pkg:swift/github.com/Kosikowski/swift-mpg123@spi_test
+- pkg:swift/github.com/Kosikowski/swift-mpg123@v1.0.1
+- pkg:swift/github.com/Kosikowski/swift-mpg123@v1.0.2
+- pkg:swift/github.com/Kosikowski/swift-mpg123@v1.1.0
+- pkg:swift/github.com/Kosikowski/swift-mpg123@v1.1.0%5E%7B%7D

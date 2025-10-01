@@ -1,0 +1,3 @@
+- pkg:swift/github.com/Kitura/Kitura-WebSocket-Compression@0.1.0
+- pkg:swift/github.com/Kitura/Kitura-WebSocket-Compression@0.1.200
+- pkg:swift/github.com/Kitura/Kitura-WebSocket-Compression@IBM-2019
