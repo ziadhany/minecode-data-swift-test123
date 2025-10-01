@@ -1,0 +1,5 @@
+- pkg:swift/github.com/swiftlang/swift-sdk-generator@swift-6.1-RELEASE
+- pkg:swift/github.com/swiftlang/swift-sdk-generator@swift-6.1.1-RELEASE
+- pkg:swift/github.com/swiftlang/swift-sdk-generator@swift-6.1.2-RELEASE
+- pkg:swift/github.com/swiftlang/swift-sdk-generator@swift-6.1.3-RELEASE
+- pkg:swift/github.com/swiftlang/swift-sdk-generator@swift-6.2-RELEASE

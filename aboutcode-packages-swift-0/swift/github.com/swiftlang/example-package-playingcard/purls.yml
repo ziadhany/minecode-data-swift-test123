@@ -1,0 +1,11 @@
+- pkg:swift/github.com/swiftlang/example-package-playingcard@1.0.0
+- pkg:swift/github.com/swiftlang/example-package-playingcard@1.0.1
+- pkg:swift/github.com/swiftlang/example-package-playingcard@2.0.0
+- pkg:swift/github.com/swiftlang/example-package-playingcard@3.0.0
+- pkg:swift/github.com/swiftlang/example-package-playingcard@3.0.1
+- pkg:swift/github.com/swiftlang/example-package-playingcard@3.0.2
+- pkg:swift/github.com/swiftlang/example-package-playingcard@3.0.3
+- pkg:swift/github.com/swiftlang/example-package-playingcard@3.0.4
+- pkg:swift/github.com/swiftlang/example-package-playingcard@3.0.5
+- pkg:swift/github.com/swiftlang/example-package-playingcard@4.0.0
+- pkg:swift/github.com/swiftlang/example-package-playingcard@4.0.0%5E%7B%7D
