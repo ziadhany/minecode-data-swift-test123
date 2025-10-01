@@ -1,0 +1,8 @@
+- pkg:swift/github.com/michaelnisi/fileproxy@1.0.0
+- pkg:swift/github.com/michaelnisi/fileproxy@5.0.0
+- pkg:swift/github.com/michaelnisi/fileproxy@6.0.0
+- pkg:swift/github.com/michaelnisi/fileproxy@v2.0.0
+- pkg:swift/github.com/michaelnisi/fileproxy@v2.0.1
+- pkg:swift/github.com/michaelnisi/fileproxy@v2.0.2
+- pkg:swift/github.com/michaelnisi/fileproxy@v3.0.0
+- pkg:swift/github.com/michaelnisi/fileproxy@v4.0.0

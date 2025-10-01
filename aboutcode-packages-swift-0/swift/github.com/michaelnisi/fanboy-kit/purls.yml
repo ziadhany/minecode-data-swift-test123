@@ -1,0 +1,13 @@
+- pkg:swift/github.com/michaelnisi/fanboy-kit@2.0.0
+- pkg:swift/github.com/michaelnisi/fanboy-kit@3.0.0
+- pkg:swift/github.com/michaelnisi/fanboy-kit@4.0.0
+- pkg:swift/github.com/michaelnisi/fanboy-kit@9.0.0
+- pkg:swift/github.com/michaelnisi/fanboy-kit@v1.0.1
+- pkg:swift/github.com/michaelnisi/fanboy-kit@v1.0.2
+- pkg:swift/github.com/michaelnisi/fanboy-kit@v1.1.0
+- pkg:swift/github.com/michaelnisi/fanboy-kit@v5.0.0
+- pkg:swift/github.com/michaelnisi/fanboy-kit@v6.0.0
+- pkg:swift/github.com/michaelnisi/fanboy-kit@v6.0.1
+- pkg:swift/github.com/michaelnisi/fanboy-kit@v7.0.0
+- pkg:swift/github.com/michaelnisi/fanboy-kit@v7.0.1
+- pkg:swift/github.com/michaelnisi/fanboy-kit@v8.0.0
