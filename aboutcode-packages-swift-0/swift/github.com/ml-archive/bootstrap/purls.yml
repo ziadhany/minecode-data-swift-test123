@@ -1,0 +1,11 @@
+- pkg:swift/github.com/ml-archive/bootstrap@1.0.0
+- pkg:swift/github.com/ml-archive/bootstrap@2.0.0
+- pkg:swift/github.com/ml-archive/bootstrap@2.0.1
+- pkg:swift/github.com/ml-archive/bootstrap@2.0.2
+- pkg:swift/github.com/ml-archive/bootstrap@3.0.0
+- pkg:swift/github.com/ml-archive/bootstrap@3.1.0
+- pkg:swift/github.com/ml-archive/bootstrap@4.0.0
+- pkg:swift/github.com/ml-archive/bootstrap@4.0.0-beta.1
+- pkg:swift/github.com/ml-archive/bootstrap@4.0.0-rc.1
+- pkg:swift/github.com/ml-archive/bootstrap@4.0.0-rc.2
+- pkg:swift/github.com/ml-archive/bootstrap@4.0.0-rc.3

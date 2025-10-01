@@ -1,0 +1,15 @@
+- pkg:swift/github.com/ml-archive/flash@0.1.0
+- pkg:swift/github.com/ml-archive/flash@1.0.0
+- pkg:swift/github.com/ml-archive/flash@1.0.0-beta.1
+- pkg:swift/github.com/ml-archive/flash@1.0.1
+- pkg:swift/github.com/ml-archive/flash@2.0.0
+- pkg:swift/github.com/ml-archive/flash@2.0.0-beta.1
+- pkg:swift/github.com/ml-archive/flash@2.0.0-beta.2
+- pkg:swift/github.com/ml-archive/flash@2.0.0-beta.3
+- pkg:swift/github.com/ml-archive/flash@3.0.0
+- pkg:swift/github.com/ml-archive/flash@4.0.0
+- pkg:swift/github.com/ml-archive/flash@5.0.0
+- pkg:swift/github.com/ml-archive/flash@5.0.0-rc.1
+- pkg:swift/github.com/ml-archive/flash@5.0.0-rc.2
+- pkg:swift/github.com/ml-archive/flash@6.0.0-beta.1
+- pkg:swift/github.com/ml-archive/flash@6.0.0-beta.2
