@@ -1,0 +1,4 @@
+- pkg:swift/github.com/SwiftyTesseract/libtesseract@0.1.0
+- pkg:swift/github.com/SwiftyTesseract/libtesseract@0.2.0
+- pkg:swift/github.com/SwiftyTesseract/libtesseract@0.2.0-rc
+- pkg:swift/github.com/SwiftyTesseract/libtesseract@0.2.0-rc1

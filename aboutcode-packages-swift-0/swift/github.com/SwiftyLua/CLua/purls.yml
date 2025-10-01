@@ -1,0 +1,4 @@
+- pkg:swift/github.com/SwiftyLua/CLua@5.4.3
+- pkg:swift/github.com/SwiftyLua/CLua@5.4.7
+- pkg:swift/github.com/SwiftyLua/CLua@5.4.7-patch-1
+- pkg:swift/github.com/SwiftyLua/CLua@5.4.7.1

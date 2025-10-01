@@ -1,0 +1,16 @@
+- pkg:swift/github.com/swiftlang/swiftly@0.0.0
+- pkg:swift/github.com/swiftlang/swiftly@0.1.0
+- pkg:swift/github.com/swiftlang/swiftly@0.1.0-rc0
+- pkg:swift/github.com/swiftlang/swiftly@0.2.0
+- pkg:swift/github.com/swiftlang/swiftly@0.3.0
+- pkg:swift/github.com/swiftlang/swiftly@0.4.0
+- pkg:swift/github.com/swiftlang/swiftly@0.4.0%5E%7B%7D
+- pkg:swift/github.com/swiftlang/swiftly@0.4.0-dev
+- pkg:swift/github.com/swiftlang/swiftly@0.4.0-dev%5E%7B%7D
+- pkg:swift/github.com/swiftlang/swiftly@1.0.0
+- pkg:swift/github.com/swiftlang/swiftly@1.0.0%5E%7B%7D
+- pkg:swift/github.com/swiftlang/swiftly@1.0.1
+- pkg:swift/github.com/swiftlang/swiftly@swiftly-install-0.1.0
+- pkg:swift/github.com/swiftlang/swiftly@swiftly-install-0.2.0
+- pkg:swift/github.com/swiftlang/swiftly@swiftly-install-0.3.0
+- pkg:swift/github.com/swiftlang/swiftly@swiftly-install-0.4.0
