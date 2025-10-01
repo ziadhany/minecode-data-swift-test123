@@ -1,0 +1,7 @@
+- pkg:swift/github.com/mapbox/Fingertips@0.1.0
+- pkg:swift/github.com/mapbox/Fingertips@0.2.0
+- pkg:swift/github.com/mapbox/Fingertips@0.3.0
+- pkg:swift/github.com/mapbox/Fingertips@0.4.0
+- pkg:swift/github.com/mapbox/Fingertips@v0.5.0
+- pkg:swift/github.com/mapbox/Fingertips@v0.5.0%5E%7B%7D
+- pkg:swift/github.com/mapbox/Fingertips@v0.6.0

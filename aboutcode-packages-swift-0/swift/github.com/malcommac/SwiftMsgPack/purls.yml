@@ -1,0 +1,4 @@
+- pkg:swift/github.com/malcommac/SwiftMsgPack@0.9.1
+- pkg:swift/github.com/malcommac/SwiftMsgPack@1.0.0
+- pkg:swift/github.com/malcommac/SwiftMsgPack@1.0.0%5E%7B%7D
+- pkg:swift/github.com/malcommac/SwiftMsgPack@1.2.0
