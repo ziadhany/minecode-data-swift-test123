@@ -1,0 +1,6 @@
+- pkg:swift/github.com/mickmaccallum/CountedSet@1.0.0
+- pkg:swift/github.com/mickmaccallum/CountedSet@1.0.0%5E%7B%7D
+- pkg:swift/github.com/mickmaccallum/CountedSet@1.1.0
+- pkg:swift/github.com/mickmaccallum/CountedSet@2.0.0
+- pkg:swift/github.com/mickmaccallum/CountedSet@2.0.0%5E%7B%7D
+- pkg:swift/github.com/mickmaccallum/CountedSet@2.0.1
