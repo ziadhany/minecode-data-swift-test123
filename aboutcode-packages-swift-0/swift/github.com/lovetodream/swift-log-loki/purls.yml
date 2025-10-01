@@ -1,0 +1,4 @@
+- pkg:swift/github.com/lovetodream/swift-log-loki@v1.0.0
+- pkg:swift/github.com/lovetodream/swift-log-loki@v1.1.0
+- pkg:swift/github.com/lovetodream/swift-log-loki@v2.0.0-alpha.1
+- pkg:swift/github.com/lovetodream/swift-log-loki@v2.0.0-rc.1
