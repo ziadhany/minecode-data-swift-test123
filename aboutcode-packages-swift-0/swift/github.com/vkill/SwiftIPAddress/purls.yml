@@ -1,0 +1,8 @@
+- pkg:swift/github.com/vkill/SwiftIPAddress@0.0.1-alpha
+- pkg:swift/github.com/vkill/SwiftIPAddress@0.0.2-alpha
+- pkg:swift/github.com/vkill/SwiftIPAddress@0.0.3-alpha
+- pkg:swift/github.com/vkill/SwiftIPAddress@0.0.3-alpha%5E%7B%7D
+- pkg:swift/github.com/vkill/SwiftIPAddress@0.0.4-alpha
+- pkg:swift/github.com/vkill/SwiftIPAddress@0.0.4-alpha%5E%7B%7D
+- pkg:swift/github.com/vkill/SwiftIPAddress@1.0.0
+- pkg:swift/github.com/vkill/SwiftIPAddress@1.0.0%5E%7B%7D
