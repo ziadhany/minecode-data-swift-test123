@@ -1,0 +1,4 @@
+- pkg:swift/github.com/nats-io/nats.swift@v0.1.0
+- pkg:swift/github.com/nats-io/nats.swift@v0.2.0
+- pkg:swift/github.com/nats-io/nats.swift@v0.3.0
+- pkg:swift/github.com/nats-io/nats.swift@v0.4.0
