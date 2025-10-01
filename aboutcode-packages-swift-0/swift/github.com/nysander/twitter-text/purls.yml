@@ -1,0 +1,4 @@
+- pkg:swift/github.com/nysander/twitter-text@0.0.1
+- pkg:swift/github.com/nysander/twitter-text@0.0.1%5E%7B%7D
+- pkg:swift/github.com/nysander/twitter-text@0.0.2
+- pkg:swift/github.com/nysander/twitter-text@0.0.3
